@@ -17,6 +17,7 @@
 - [ ] Real life FNAF animatronic (still sceptic about making this for obvious reasons)  
 - [ ] I2P Search Engine  
 - [ ] Open-Source U2F/FIDO2 (with passkeys) hardware key  
+- [ ] LiDAR camera  
 - I'll be adding things here eventually lol   
 
 ---
