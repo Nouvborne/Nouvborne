@@ -5,7 +5,7 @@
 🔭 I’m currently working on **[Nothing XPC](https://github.com/nouvborne/nothing-xpc)**  
 🌱 I’m learning German language and diving deeper into micro-controllers.  
 👯 I’m looking to collaborate on open-source projects.  
-⚡ Fun fact: I love coding while listening to \$uicideboy\$!  
+⚡ Fun fact: I love coding while listening to &#36;uicideboy&#36;!  
 
 ⭐️ If you like my work, feel free to **star** my repos and **follow** me!
 
