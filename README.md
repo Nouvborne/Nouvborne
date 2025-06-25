@@ -19,7 +19,8 @@
 
 ## 📅 Projects I Currently Plan on Doing
 
-- [x] Cross-platform Nothing Ear management app ([Nothing XPC](https://github.com/nouvborne/nothing-xpc))  
+- [x] Cross-platform Nothing Ear management app ([Nothing XPC](https://github.com/nouvborne/nothing-xpc))
+- [ ] Fan-made NothingOS based on linux 
 - [ ] Real life FNAF animatronic (still sceptic about making this for obvious reasons)  
 - [ ] I2P Search Engine  
 - [ ] Open-Source U2F/FIDO2 (with passkeys) hardware key  
