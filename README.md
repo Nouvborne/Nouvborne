@@ -11,6 +11,12 @@
 
 ---
 
+## 🎧 What I'm Listening to Right Now
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6hngu5i1k3rh4ee6wwyzt3p9o&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=6hngu5i1k3rh4ee6wwyzt3p9o&redirect=true)
+
+---
+
 ## 📅 Projects I Currently Plan on Doing
 
 - [x] Cross-platform Nothing Ear management app ([Nothing XPC](https://github.com/nouvborne/nothing-xpc))  
