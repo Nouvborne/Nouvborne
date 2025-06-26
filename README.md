@@ -2,7 +2,7 @@
 
 ## About Me
 
-🔭 I’m currently working on **[Nothing XPC](https://github.com/nouvborne/nothing-xpc)**  
+🔭 I’m currently working on **[SPRT OS (link soon)](https://github.com/nouvborne/)**  
 🌱 I’m learning German language and diving deeper into micro-controllers.  
 👯 I’m looking to collaborate on open-source projects.  
 ⚡ Fun fact: I love coding while listening to `$uicideboy$`!  
