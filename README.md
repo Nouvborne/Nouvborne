@@ -6,6 +6,7 @@
 🌱 I’m learning German language and diving deeper into micro-controllers.  
 👯 I’m looking to collaborate on open-source projects.  
 ⚡ Fun fact: I love coding while listening to `$uicideboy$`!  
+💼 My dream job is Linux Sysadmin  
 
 ⭐️ If you like my work, feel free to **star** my repos and **follow** me!
 
