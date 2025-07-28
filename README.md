@@ -2,7 +2,7 @@
 
 ## About Me
 
-🔭 I’m currently working on **[Nouvium](https://github.com/nouvborne/nouvium)**  
+🔭 I’m currently working on **[Lyricify](https://github.com/nouvborne/lyricify)**  
 🌱 I’m learning German language and diving deeper into micro-controllers.  
 👯 I’m looking to collaborate on open-source projects.  
 ⚡ Fun fact: I love coding while listening to `$uicideboy$`!  
